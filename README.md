@@ -3,6 +3,7 @@
 Use:
 Import-Module "Clicker.psm1"
     To send Right or Left Click
+    
 Import-Module "GetCursorPositionColor.psm1"
     To get cursor position RGB
 
